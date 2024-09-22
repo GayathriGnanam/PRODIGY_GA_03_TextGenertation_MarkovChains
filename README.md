@@ -1,2 +1,2 @@
 # PRODIGY_GA_03_TextGenertation_MarkovChains
-Implement a simple text generation algorithm using Markov chains. This task involves creating a statistical model that predicts the probability of a character or word based on the previous one(s).
+This code builds a Markov chain from Ali Wong's text and generates random sentences. It reads the text, creates a dictionary mapping each word to possible following words, and then uses this dictionary to randomly construct sentences. The generated sentences mimic the structure and flow of the original text.
